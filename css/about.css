@@ -1,0 +1,62 @@
+
+
+
+
+.holder
+{
+	background-color: #f5f5f5;
+}
+.breadcrumb
+{
+	padding: 10px 0px;
+	margin: 0px;
+}
+
+.intro
+{
+	padding: 70px;
+}
+.intro h1
+{
+	font-family:'Notable', sans-serif;
+	letter-spacing: -1px;
+	font-size: 40px;
+
+}
+.featreses
+{
+	padding: 0 0 70px;
+
+}
+.featreses h3
+{
+	font-family: 'Notable', sans-serif;
+
+}
+.featreses p
+{
+	margin-bottom: 20px;
+}
+.our-facing
+{
+	background-color: #eee;
+	
+}
+
+.our-facing h2
+{
+	font-family: 'Squada One', cursive;
+
+}
+
+.our-facing p
+{
+	line-height: 1.8
+}
+.our-facing  .btn-primary
+{
+	background-color: black;
+	border: black;
+	display: block;
+	margin-bottom: 20px;
+}

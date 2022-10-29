@@ -1,0 +1,38 @@
+
+
+
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:hover, 
+ .navbar-inverse .navbar-nav > .active > a:focus,
+  .dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus, .option-box .gear-chek
+
+ 
+ {
+	display: inline;
+ 	background: #60f901;
+	
+ }
+.navbar-inverse .navbar-brand span
+{
+	display: inline;
+	color: #60f901;
+	
+}
+.dropdown-menu
+{
+	display: inline;
+
+	border-top: 3px solid #60f901;
+	
+	
+}
+
+.color-option, .carousel-indicators .active
+
+{
+	display: inline;
+	border: solid 3px #60f901 ;
+	
+	
+}

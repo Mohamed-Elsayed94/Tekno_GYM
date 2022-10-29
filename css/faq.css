@@ -1,0 +1,35 @@
+
+
+.faq-intro 
+{
+	padding: 40px 0;
+}
+
+
+.faq-intro h1
+{
+	font-family: 'Galada', cursive;
+	letter-spacing: -1px;
+	font-size: 55px;
+}
+.faq-according .panel-heading
+{
+	padding: 20px 15px;
+}
+
+.faq-intro h1 ~ hr
+{
+	width: 70%
+}
+.faq-according .panel-heading a:after
+{
+	font-family: "Glyphicons Halflings";
+	content: "\e094";
+	float: right;
+	color: #444;
+}
+.faq-according .panel-heading a.collapsed:after
+{
+	content: "\e072";
+	color: #999;
+}
